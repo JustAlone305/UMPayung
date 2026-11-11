@@ -1,4 +1,4 @@
-package com.um.payung;
+package com.um.payung.models;
 
 public class CampusEdge {
     private String edgeId;

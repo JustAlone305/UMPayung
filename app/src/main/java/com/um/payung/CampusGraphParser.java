@@ -1,6 +1,10 @@
 package com.um.payung;
 
 import android.content.Context;
+
+import com.um.payung.models.CampusEdge;
+import com.um.payung.models.CampusNode;
+
 import org.json.JSONArray;
 import org.json.JSONObject;
 import java.io.InputStream;

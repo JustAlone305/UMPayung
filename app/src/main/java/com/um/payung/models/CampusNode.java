@@ -1,4 +1,4 @@
-package com.um.payung;
+package com.um.payung.models;
 
 public class CampusNode {
     private String id;
