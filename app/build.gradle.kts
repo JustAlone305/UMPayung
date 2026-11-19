@@ -45,6 +45,16 @@ dependencies {
     implementation("com.google.firebase:firebase-firestore")
     implementation("com.google.firebase:firebase-messaging")
 
+    // AI Engineer Phase 1 - Gemini
+    implementation("com.google.firebase:firebase-ai")
+
+    // App Check - Debug testing only
+    debugImplementation("com.google.firebase:firebase-appcheck-debug")
+
+    // Required for Java asynchronous Gemini calls
+    implementation("com.google.guava:guava:31.0.1-android")
+
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.espresso.core)
     androidTestImplementation(libs.ext.junit)
