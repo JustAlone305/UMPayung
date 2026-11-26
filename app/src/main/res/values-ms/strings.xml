@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UM Payung</string>
+    <string name="nav_home">Peta</string>
+    <string name="nav_report">Lapor</string>
+    <string name="nav_chat">Sembang</string>
+    <string name="nav_profile">Profil</string>
+
+    <string name="title_home">Peta Kampus</string>
+    <string name="title_report">Laporan Keselamatan</string>
+    <string name="title_chat">Pembantu Keselamatan</string>
+    <string name="title_profile">Profil Pengguna</string>
+
+    <string name="placeholder_home">Paparan Peta Kampus (Google Maps)</string>
+    <string name="placeholder_report">Hantar atau Lihat Laporan Keselamatan</string>
+    <string name="placeholder_chat">Pembantu Keselamatan AI &amp; Kecemasan</string>
+    <string name="placeholder_profile">Tetapan &amp; Keutamaan Pengguna</string>
+</resources>
