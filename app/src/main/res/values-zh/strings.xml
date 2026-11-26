@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UM Payung</string>
+    <string name="nav_home">地图</string>
+    <string name="nav_report">上报</string>
+    <string name="nav_chat">聊天</string>
+    <string name="nav_profile">个人</string>
+
+    <string name="title_home">校园地图</string>
+    <string name="title_report">安全上报</string>
+    <string name="title_chat">安全助手</string>
+    <string name="title_profile">个人资料</string>
+
+    <string name="placeholder_home">校园地图视图 (Google Maps)</string>
+    <string name="placeholder_report">提交或查看安全报告</string>
+    <string name="placeholder_chat">AI 安全与紧急助手</string>
+    <string name="placeholder_profile">用户设置与偏好</string>
+</resources>

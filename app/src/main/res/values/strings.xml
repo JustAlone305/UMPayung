@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">UMPayung</string>
+    <string name="app_name">UM Payung</string>
+    <string name="nav_home">Map</string>
+    <string name="nav_report">Report</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="title_home">Campus Map</string>
+    <string name="title_report">Safety Report</string>
+    <string name="title_chat">Safety Assistant</string>
+    <string name="title_profile">User Profile</string>
+
+    <string name="placeholder_home">Campus Map View (Google Maps)</string>
+    <string name="placeholder_report">Submit or View Safety Reports</string>
+    <string name="placeholder_chat">AI Safety &amp; Emergency Assistant</string>
+    <string name="placeholder_profile">User Settings &amp; Preferences</string>
 </resources>

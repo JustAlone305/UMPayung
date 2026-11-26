@@ -5,14 +5,12 @@ plugins {
 
 android {
     namespace = "com.um.payung"
-    compileSdk {
-        version = release(37)
-    }
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.um.payung"
         minSdk = 26
-        targetSdk = 37
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
@@ -54,6 +52,13 @@ dependencies {
     // Required for Java asynchronous Gemini calls
     implementation("com.google.guava:guava:31.0.1-android")
 
+    // Google Play Services Maps & Location
+    implementation("com.google.android.gms:play-services-maps:19.0.0")
+    implementation("com.google.android.gms:play-services-location:21.3.0")
+
+    // Jetpack Navigation (Java)
+    implementation("androidx.navigation:navigation-fragment:2.8.3")
+    implementation("androidx.navigation:navigation-ui:2.8.3")
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.espresso.core)
